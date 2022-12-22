@@ -1,0 +1,22 @@
+{
+  "name": "devops",
+  "version": "1.0.0",
+  "description": "Using webpack,CD/CI with github actions, testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imranyy/webpack-devops.git"
+  },
+  "keywords": [
+    "devops"
+  ],
+  "author": "imran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imranyy/webpack-devops/issues"
+  },
+  "homepage": "https://github.com/imranyy/webpack-devops#readme"
+}
