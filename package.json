@@ -1,5 +1,5 @@
 {
-  "name": "Devops",
+  "name": "devops",
   "version": "1.0.0",
   "description": "Using webpack,CD/CI with github actions, testing",
   "main": "index.js",
