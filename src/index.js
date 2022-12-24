@@ -1,4 +1,9 @@
-function hello(){
-    return 'hello';
+// function hello(){
+//     return 'hello';
+// }
+// console.log(hello());
+
+function sum(a,b){
+    return a+b;
 }
-console.log(hello());
+module.exports=sum;
