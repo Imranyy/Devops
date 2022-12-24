@@ -1,25 +1,25 @@
 {
-  "name": "devops",
+  "name": "Devops",
   "version": "1.0.0",
   "description": "Using webpack,CD/CI with github actions, testing",
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "build": "webpack"
+    "build": "webpack --mode production"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/imranyy/webpack-devops.git"
+    "url": "https://github.com/imranyy/Devops.git"
   },
   "keywords": [
-    "devops"
+    "Devops"
   ],
   "author": "imran",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/imranyy/webpack-devops/issues"
+    "url": "https://github.com/imranyy/Devops/issues"
   },
-  "homepage": "https://github.com/imranyy/webpack-devops#readme",
+  "homepage": "https://github.com/imranyy/Devops#readme",
   "devDependencies": {
     "webpack": "^5.75.0",
     "webpack-cli": "^5.0.1"

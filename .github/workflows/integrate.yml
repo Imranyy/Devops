@@ -1,0 +1,9 @@
+name: Automation with Github action Continuous Integration
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  testing:
+    runs-on: ubuntu-latest
+    
